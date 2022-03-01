@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F4A0B596-A410-43E3-A6B7-F255CEB04159"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "visual jogo da forca/controllers/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ResultViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - d1937ecf6e584b89"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.labelResult.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - 3e02c0b9636177d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.labelResult.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - bbe9e126e69a128c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.labelResult.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - 3c165ad0cbb8a992"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.labelResult.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - b423334768d1f470"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; visual_jogo_da_forca.ResultViewController"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "249">
+               </Location>
+               <Location
+                  uuid = "8B05669B-C254-4431-ACB9-9BEA948328A1 - 1bfae0d06c8bcab0"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "visual_jogo_da_forca.ResultViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;visual_jogo_da_forca.ResultViewController&gt;"
+                  moduleName = "visual jogo da forca"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ifpb/Documents/Jorge%20Ricardo%20Soares/visual%20jogo%20da%20forca/visual%20jogo%20da%20forca/controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
